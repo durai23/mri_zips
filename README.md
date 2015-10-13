@@ -2,7 +2,7 @@
 scripts for statistical analyses on MRI data
 
 dsi                     - deterministic tractography scripts  
-esTOYmator              - task based visualiztion toolbox. It simulates basic GLM design aspects like collinearity, partial models and noise in a visual and interactive manner.  
+esTOYmator              - task based visualiztion toolbox. It simulates basic GLM design aspects like  ---collinearity, partial models and noise in a visual and  ---interactive manner.  
 fri_prepro              - preprocessing pipelines and optimization.  
 probtrack               - probabilistic tractography scripts.  
 roi                     - ROI operations.  
